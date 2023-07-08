@@ -2,6 +2,7 @@ import tkinter as tk
 
 root = tk.Tk()
 root.geometry("350x300")
+root.title("Ejercicio 2")
 
 class Ejercicio_2:
     def __init__(self, root):
