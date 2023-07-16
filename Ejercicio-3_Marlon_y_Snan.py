@@ -29,7 +29,7 @@ ventana = tk.Tk()
 ventana.geometry("450x350")
 ventana.title("Ejercicio 3")
 
-#Este cuenta como el tamaño del arreglo
+
 label1 = tk.Label(ventana, text="Elementos del arreglo: ")
 label1.pack()
 
